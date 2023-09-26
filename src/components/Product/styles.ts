@@ -46,29 +46,33 @@ export const Image = styled(CardMedia)({
   height: "140px",
   backgroundSize: "contain",
 
-  marginTop: "0.5rem",
+  marginTop: "8px",
 });
 
 export const Content = styled(CardContent)({
   display: "flex",
   flexDirection: "column",
-  justifyContent: "center",
+  justifyContent: "space-between",
 });
 
 export const ProductName = styled(Typography)({
   fontWeight: "bold",
-  marginTop: "0.5rem",
+  marginTop: "8px",
 });
 
 export const ProductDescription = styled(Typography)({
   fontSize: "0.8rem",
-  marginTop: "0.5rem",
+  marginTop: "8px",
+  marginBottom: "32px",
 });
 
 export const ProductPrice = styled(Typography)({
+  position: "absolute",
+  bottom: "24px",
+  left: "50%",
+  transform: "translateX(-50%)",
+
   fontWeight: "bold",
-  marginTop: "1rem",
-  marginBottom: "1rem",
 });
 
 export const FavoriteTimeBadge = styled("div")({
