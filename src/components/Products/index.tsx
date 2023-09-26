@@ -3,6 +3,8 @@ import { useGetProducts } from "../../lib/reactQuery/useProducts";
 import { TFavoritesHashMap, TProduct } from "../../types";
 import { Product } from "../Product";
 import { ProductsContainer } from "./styles";
+import { CircularProgress } from "@mui/material";
+import { colors } from "../../constants/colors";
 
 export function Products() {
   const [favorites, setFavorites] = useState<TFavoritesHashMap>({});
@@ -29,7 +31,7 @@ export function Products() {
 
   return (
     <ProductsContainer>
-      {!productsQuery.isSuccess && <div>Carregando...</div>}
+      {!productsQuery.isSuccess && <CircularProgress sx={{ color: colors.golden }} />}
       {products.map((product) => {
         const productFavorite = favorites[product.id];
 

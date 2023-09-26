@@ -1,5 +1,6 @@
 import { Star, StarBorder } from "@mui/icons-material";
 import { IconWrapper } from "./styles";
+import { colors } from "../../constants/colors";
 
 export function ProductFavoriteIcon({
   isFavorite,
@@ -10,7 +11,7 @@ export function ProductFavoriteIcon({
 }) {
   return (
     <IconWrapper onClick={() => onClickFavorite()}>
-      {!isFavorite ? <StarBorder /> : <Star sx={{ color: "#FFC000" }} />}
+      {!isFavorite ? <StarBorder /> : <Star sx={{ color: colors.golden }} />}
     </IconWrapper>
   );
 }
