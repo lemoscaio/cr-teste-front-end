@@ -53,6 +53,8 @@ export const Content = styled(CardContent)({
   display: "flex",
   flexDirection: "column",
   justifyContent: "space-between",
+
+  padding: "24px",
 });
 
 export const ProductName = styled(Typography)({

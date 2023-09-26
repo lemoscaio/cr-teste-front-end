@@ -9,7 +9,6 @@ export function ProductContent({ title, description, price }: { title: string; d
     <Content>
       <ProductName align="center">{title}</ProductName>
       <ProductDescription align="center">{description}</ProductDescription>
-
       <ProductPrice align="center">{formatPrice(price)}</ProductPrice>
     </Content>
   );
