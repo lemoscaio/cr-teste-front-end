@@ -1,0 +1,72 @@
+[
+  {
+    "id": 1,
+    "title": "Solução Bucal Colgate PerioGard sem álcool",
+    "description": "Sortido, 1 unidade com 250mL\nFabricante: Colgate Palmolive\nMarca: Periogard",
+    "price": 100,
+    "imageUrl": "https://uploads.consultaremedios.com.br/product_variation_images/full/b0dc1ae551fd4edb5c799f2dc76ec927c3946d2e.jpg?1677785580"
+  },
+  {
+    "id": 2,
+    "title": "Product 2",
+    "description": "This is product 2This is product 2This is product 2This is product 2This is product 2This is product 2This is product 2This is product 2This is product 2",
+    "price": 200,
+    "imageUrl": "https://uploads.consultaremedios.com.br/product_variation_images/full/b0dc1ae551fd4edb5c799f2dc76ec927c3946d2e.jpg?1677785580"
+  },
+  {
+    "id": 3,
+    "title": "Product 3",
+    "description": "This is product 3",
+    "price": 200,
+    "imageUrl": "https://uploads.consultaremedios.com.br/product_variation_images/full/b0dc1ae551fd4edb5c799f2dc76ec927c3946d2e.jpg?1677785580"
+  },
+  {
+    "id": 4,
+    "title": "Product 4",
+    "description": "This is product 4",
+    "price": 200,
+    "imageUrl": "https://uploads.consultaremedios.com.br/product_variation_images/full/b0dc1ae551fd4edb5c799f2dc76ec927c3946d2e.jpg?1677785580"
+  },
+  {
+    "id": 5,
+    "title": "Product 5",
+    "description": "This is product 5",
+    "price": 200,
+    "imageUrl": "https://uploads.consultaremedios.com.br/product_variation_images/full/b0dc1ae551fd4edb5c799f2dc76ec927c3946d2e.jpg?1677785580"
+  },
+  {
+    "id": 6,
+    "title": "Product 6",
+    "description": "This is product 6",
+    "price": 200,
+    "imageUrl": "https://uploads.consultaremedios.com.br/product_variation_images/full/b0dc1ae551fd4edb5c799f2dc76ec927c3946d2e.jpg?1677785580"
+  },
+  {
+    "id": 7,
+    "title": "Product 7",
+    "description": "This is product 7",
+    "price": 200,
+    "imageUrl": "https://uploads.consultaremedios.com.br/product_variation_images/full/b0dc1ae551fd4edb5c799f2dc76ec927c3946d2e.jpg?1677785580"
+  },
+  {
+    "id": 8,
+    "title": "Product 8",
+    "description": "This is product 8",
+    "price": 200,
+    "imageUrl": "https://uploads.consultaremedios.com.br/product_variation_images/full/b0dc1ae551fd4edb5c799f2dc76ec927c3946d2e.jpg?1677785580"
+  },
+  {
+    "id": 9,
+    "title": "Product 9",
+    "description": "This is product 9",
+    "price": 200,
+    "imageUrl": "https://uploads.consultaremedios.com.br/product_variation_images/full/b0dc1ae551fd4edb5c799f2dc76ec927c3946d2e.jpg?1677785580"
+  },
+  {
+    "id": 10,
+    "title": "Product 10",
+    "description": "This is product 10",
+    "price": 200,
+    "imageUrl": "https://uploads.consultaremedios.com.br/product_variation_images/full/b0dc1ae551fd4edb5c799f2dc76ec927c3946d2e.jpg?1677785580"
+  }
+]
