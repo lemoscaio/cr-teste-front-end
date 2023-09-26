@@ -10,7 +10,7 @@ function getTimeDifferenceText(date: Date, comparingTime: Date) {
   const hours = Math.floor(diffInMin / 60);
   const minutes = diffInMin % 60;
 
-  if (minutes === 0) {
+  if (minutes < 1 ) {
     return `agora`;
   }
 
